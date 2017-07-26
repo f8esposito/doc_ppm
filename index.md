@@ -10,7 +10,8 @@ J'aborde ici tous les themes associés à ce mouvement qui ne date pas d'hier ce
 * Logs
 * Deployment
 * Configuration
-* [Code](https://github.com/jmillot/doc_ppm/blob/master/code)
+* Code
+  * [Github](../blob/master/code/github.md) 
 * Collaborate
 * Build
 * Monitoring
