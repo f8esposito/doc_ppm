@@ -11,7 +11,7 @@ J'aborde ici tous les themes associés à ce mouvement qui ne date pas d'hier ce
 * Deployment
 * Configuration
 * Code
-  * [Github](../master/code/github) 
+  * [Github](https://jmillot.github.io/doc_ppm/code/github) 
 * Collaborate
 * Build
 * Monitoring
