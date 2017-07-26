@@ -11,7 +11,7 @@ J'aborde ici tous les themes associés à ce mouvement qui ne date pas d'hier ce
 * Deployment
 * Configuration
 * Code
-  * [Github](../blob/master/code/github.md) 
+  * [Github](../blob/master/code/github) 
 * Collaborate
 * Build
 * Monitoring
